@@ -1,5 +1,1 @@
-../*
-logs/
-.env
-__pycache__/
-*.sqlite
+../
