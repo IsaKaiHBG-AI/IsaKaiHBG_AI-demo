@@ -33,7 +33,7 @@ This system eliminates **$100K+/month in cloud costs** and supports **DeepSeek-V
 ---
 
 ## Roadmap
-- **August 2025:** Secure $150K seed funding (Phase 1 complete)  
+- **August 2025:** Secure $150K seed funding  
 - **Q3 2025:** Full investor-ready AI demos + inference-as-a-service  
 - **Q4 2025:** Government and enterprise-level deployments
 
