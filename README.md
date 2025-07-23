@@ -1,6 +1,6 @@
 # IsaKaiHBG_AI – Sovereign Multi-Agent AI
 
-![Logo](Documents/Iskhbgllc_2.png)
+![Logo](assets/logo.png)
 
 IsaKai Holdings & Bookings Group LLC is building **IsaKaiHBG_AI**, a fully private, investor-ready **multi-agent AI platform** designed for autonomy and scale.
 
